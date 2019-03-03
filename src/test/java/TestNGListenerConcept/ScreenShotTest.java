@@ -23,6 +23,8 @@ public class ScreenShotTest extends Base{
 	public void takeScreenShotTest(){
 		Assert.assertEquals(false,true);
 		
+		System.out.println("ScreenShot has taken");
+		
 	}
 	@Test
 	public void screenShot(){
